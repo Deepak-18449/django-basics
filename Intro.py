@@ -36,7 +36,3 @@ C.Run the executable file and complete the installation process.
 
 # How to print hello world in python 
 print("Hello World !!!")
-
-
-# How to print hello world in python 
-print("Hello World !!!")
